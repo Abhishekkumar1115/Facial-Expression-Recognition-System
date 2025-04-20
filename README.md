@@ -8,7 +8,7 @@ deepface: A deep learning facial analysis library that provides pre-trained mode
 OpenCV: An open-source computer vision library used for image and video processing.
 # Usage
 Initial steps:
-Git clone this repository Run: git clone https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface.git
+Git clone this repository Run: git clone https://github.com/Abhishekkumar1115/Facial-Expression-Recognition-System
 Run: cd Facial-Emotion-Recognition-using-OpenCV-and-Deepface
 Install the required dependencies:
 
