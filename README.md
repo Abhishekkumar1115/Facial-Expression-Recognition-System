@@ -54,6 +54,4 @@ Emotion labels will be displayed on the frames around detected faces.
 
 14.Release the video capture and close all windows using cap.release() and cv2.destroyAllWindows().
 
-
-
-
+(https://github.com/user-attachments/assets/ed1b3d10-6e76-4f80-83ba-d140d24151cf)
